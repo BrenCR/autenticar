@@ -12,9 +12,9 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <form action="autenticar" method="doPost">
+        <form action="autenticar" method="post">
             <input type="text" name="login" placeholder="Escribe tu login"/>
-            <input type="password" name="pasword" placeholder="Escribe tu password"/>
+            <input type="password" name="password" placeholder="Escribe tu password"/>
             <input type="submit" value="autenticarse ya">
             
         </form>
