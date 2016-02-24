@@ -1,5 +1,7 @@
 package model;
 
+import model.HibernateUtilidades;
+import model.Usuario;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.Transaction;
